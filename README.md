@@ -45,9 +45,9 @@ First of all you need to signup and that data is store in the database using thi
 
 ## Table of Contents
 
-- [Introduction](java/JVM.md)
-- [Getting Started](java/JVM.md)
-- [Prerequisites](java/JVM.md)
+- [Introduction]
+- [Getting Started]
+- [Prerequisites]
 - [Installing](java/JVM.md)
 - [Running](java/JVM.md)
 - [Built With](java/JVM.md)
