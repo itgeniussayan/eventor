@@ -39,9 +39,9 @@
 
 
 
-# B-Tech Interview Questions and Answers Repository
 
-Welcome to the B-Tech Interview Questions and Answers Repository! This repository is designed to help B-Tech students and job seekers prepare for technical interviews by providing a comprehensive collection of common interview questions and detailed answers.
+
+First of all you need to signup and that data is store in the database using this data you can login in the gaming application and playing the game. 
 
 ## Table of Contents
 
@@ -57,7 +57,8 @@ Welcome to the B-Tech Interview Questions and Answers Repository! This repositor
 
 ## Introduction
 
-B-Tech students often face technical interviews that assess their knowledge in various subjects, including computer science, electronics, mechanical engineering, and more. This repository aims to provide a centralized resource for B-Tech students to prepare for such interviews.
+First of all you need to signup and that data is store in the database using this data you can login in the gaming application and playing the game. 
+
 
 ## Getting Started
 
@@ -79,7 +80,7 @@ To get started with this repository, follow these simple steps:
 
 
  ```
- git clone https://github.com/sayan721137/coding.git
+ git clone https://github.com/sayan721137/Htmlgame.git
  ```
 
 
@@ -93,24 +94,24 @@ To run Our Code We Need To Execute The Following steps:
 #### Enter The Directory
 
 ```
-cd coding
+cd src
+cd main
+cd java
+cd com
+cd Htmlgame
+cd Htmlgame
+
 ```
 
 #### Creating a Class File of the Programming
 
-For am Example here e chose Fizz_Buzz.java Code
+
 
 ```
-Javac Fizz_Buzz.java
+And Run this file HtmlgameApplication.java 
 ```
 
-#### Execute The class File
 
-Now Find there is a new Class file now Run it Using:
-
-```
-Java fizzbuzz
-```
 
 
 
