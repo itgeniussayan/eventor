@@ -68,7 +68,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Install Java - <a href="https://github.com/sayan721137/coding/blob/main/.installJava.md">Click Me</a>
 - Install IDE - <a href="https://www.jetbrains.com/idea/download/?section=windows">Click Me</a>
-
+-Install MYSQL -<a href ="https://dev.mysql.com/downloads/workbench/">Click Me</a>
 ## Installing
 
 To get started with this repository, follow these simple steps:
@@ -111,7 +111,14 @@ cd Htmlgame
 And Run this file HtmlgameApplication.java 
 ```
 
+#### Execute Sql Command
 
+Run this two file 
+
+```
+01-create-user.sql
+02-student-tracker.sql 
+```
 
 
 
@@ -120,6 +127,7 @@ And Run this file HtmlgameApplication.java
 
 * [Java](https://www.java.com/en/) - programming language
 * [IDE-Intellij](https://https://www.jetbrains.com/idea/) - IDE
+* [MYSQL-WorkBench](https://dev.mysql.com/downloads/workbench/) - MYSQL
 
 
 
