@@ -45,14 +45,14 @@ First of all you need to signup and that data is store in the database using thi
 
 ## Table of Contents
 
-- [Introduction]
-- [Getting Started]
-- [Prerequisites]
-- [Installing](java/JVM.md)
-- [Running](java/JVM.md)
-- [Built With](java/JVM.md)
-- [Owner](java/JVM.md)
-- [License](java/JVM.md)
+- Introduction
+- Getting Started
+- Prerequisites
+- Installing
+- Running
+- Built With
+- Owner
+- License
 
 
 ## Introduction
