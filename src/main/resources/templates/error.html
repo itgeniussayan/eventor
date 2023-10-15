@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Email Already Registered</title>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            animation: fade-in 0.5s ease-in-out;
+        }
+        h1 {
+            color: #333333;
+        }
+        p {
+            color: #777777;
+            margin-top: 10px;
+        }
+        #signInButton {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #signInButton:hover {
+            background-color: #0056b3;
+        }
+        @keyframes fade-in {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+  <h1>Email Already Registered</h1>
+  <p>This email address is already registered. Please sign in to continue.</p>
+  <button id="signInButton">Sign In</button>
+</div>
+
+<script>
+        document.getElementById("signInButton").addEventListener("click", function() {
+            window.location.href = "signup";
+        });
+    </script>
+</body>
+</html>
