@@ -51,7 +51,7 @@ Ending of Installing Process now It time to test our code..
 
 ## Running
 
-To run Our Code We Need To Execute The Following steps:
+To run our Code We Need To Execute The Following steps:
 
 #### Enter The Directory
 
