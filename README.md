@@ -106,7 +106,7 @@ cd Htmlgame
 #### Run The file to Start BackEnd Process
 
 
-
+Open it on any IDE (intellij)
 ```
 And Run this file HtmlgameApplication.java 
 ```
