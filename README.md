@@ -111,9 +111,9 @@ Open it on any IDE (intellij)
 And Run this file HtmlgameApplication.java 
 ```
 
-#### Execute Sql Command
+#### Execute SQL Command
 
-Run this two file 
+Run this two file on MYSQL WorkBench 
 
 ```
 01-create-user.sql
