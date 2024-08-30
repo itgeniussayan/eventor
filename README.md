@@ -42,7 +42,7 @@ To get started with this repository, follow these simple steps:
 
 
  ```
- git clone https://github.com/sayan721137/Htmlgame.git
+ git clone https://github.com/itgeniussayan/eventor.git
  ```
 
 
